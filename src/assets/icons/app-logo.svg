@@ -7,8 +7,8 @@
 <svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="400" height="100" fill="white"/>
   
-  <text x="20" y="60" font-family="Arial, sans-serif" font-size="45" font-weight="bold" fill="#1A73E8">
-    Netlivy
+  <text x="20" y="100" font-family="Arial, sans-serif" font-size="45" font-weight="bold" fill="#1A73E8">
+    NETLIVY
     <tspan fill="#EA4335"> quiz</tspan>
   </text>
   
