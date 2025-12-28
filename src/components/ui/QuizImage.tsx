@@ -7,7 +7,7 @@ interface QuizImageProps {
 const QuizImage: FC<QuizImageProps> = ({ image }) => (
   <img
     src={image}
-    alt="picture quiz"
+    alt="pictue quiz"
     className="rounded-[10px] mb-5 h-[400px] w-full shadow-[3px_3px_2px_var(--color-theme-color)] object-cover"
   />
 )
