@@ -20,7 +20,7 @@ const QuizTopicsScreen: React.FC = () => {
     <PageCenter light justifyCenter>
       <CenterCardContainer>
         <div className="text-app-logo mb-8 text-center md:mb-12">
-          <Applogo width={220} />
+          <AppLogo width={220} />
         </div>
         <h2 className="mb-5 text-center text-3xl font-bold">
           WELCOME TO <HighlightedText> NETLIVY QUIZ</HighlightedText>
