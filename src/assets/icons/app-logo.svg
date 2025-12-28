@@ -4,34 +4,15 @@
     fill="currentColor" />
   <rect x="1.92145" y="1.82843" width="76.7693" height="76.3432" rx="1.60651" stroke="currentColor"
     stroke-width="3.21302" stroke-linecap="round" stroke-dasharray="6.43 6.43" />
- 
-<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
-  <path d="
-    /* N harfi */
-    M20 100 V40 H35 L65 85 V40 H75 V100 H60 L30 55 V100 H20 Z
-    /* e harfi */
-    M90 80 Q90 65 105 65 Q120 65 120 80 V85 H90 Q90 100 105 100 Q115 100 120 95 L125 100 Q115 110 100 110 Q85 110 85 90 Z M110 80 Q110 73 105 73 Q100 73 100 80 H110 Z
-    /* t harfi */
-    M140 45 V65 H130 V75 H140 V95 Q140 105 150 105 H155 V95 H150 Q148 95 148 90 V75 H160 V65 H148 V45 H140 Z
-    /* l harfi */
-    M175 40 V100 H185 V40 H175 Z
-    /* i harfi */
-    M200 65 V100 H210 V65 H200 Z M200 45 V55 H210 V45 H200 Z
-    /* v harfi */
-    M225 65 L240 100 H250 L265 65 H255 L245 90 L235 65 H225 Z
-    /* y harfi */
-    M275 65 L290 100 Q295 115 285 125 L275 120 Q285 115 282 105 L270 65 H280 Z M305 65 L295 90 H297 L305 65 Z
-    
-    /* Bo'sh joy va Quiz qismi */
-    /* Q harfi */
-    M340 90 Q340 70 360 70 Q380 70 380 90 Q380 110 365 110 L375 120 H365 L355 110 Q340 110 340 90 Z M350 90 Q350 102 360 102 Q370 102 370 90 Q370 78 360 78 Q350 78 350 90 Z
-    /* u harfi */
-    M395 75 V100 Q395 110 405 110 Q415 110 415 100 V75 H405 V100 Q405 102 405 102 Q405 102 405 100 V75 H395 Z
-    /* i harfi (quiz uchun) */
-    M430 75 V100 H440 V75 H430 Z M430 60 V70 H440 V60 H430 Z
-    /* z harfi */
-    M455 75 H480 V85 L465 100 H480 V110 H455 V100 L470 85 H455 V75 Z
-  " fill="#000000" stroke-width="0"/>
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="100" fill="white"/>
+  
+  <text x="20" y="60" font-family="Arial, sans-serif" font-size="45" font-weight="bold" fill="#1A73E8">
+    Netlivy
+    <tspan fill="#EA4335"> quiz</tspan>
+  </text>
+  
+  <path d="M20 75 L180 75" stroke="#1A73E8" stroke-width="3" stroke-linecap="round"/>
 </svg>
     fill="currentColor" />
 </svg>
